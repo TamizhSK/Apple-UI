@@ -1,2 +1,2 @@
 Configuration updated
-Version: 581
+Version: 588
