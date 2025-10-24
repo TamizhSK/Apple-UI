@@ -1,5 +1,6 @@
-### TODO
+# Changelog
 
-- [ ] Review code
-- [ ] Update tests
-- [x] Document changes
+## [1.0.1] - 2025-10-24
+
+### Changed
+- Minor improvements
